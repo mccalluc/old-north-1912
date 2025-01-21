@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+In 2024, work began to [uncover decorations in Old North Church dating to 1727](https://www.oldnorth.com/preservation/#mural). From the earliest years of the church's history until the early 20th century, these cherubs ornamented the walls above the worshippers, but as part of the 1912 restoration they are painted over. This site collects documents relating to the 1912 restoration, and hopes to explain why a project which took such care to uncover the history of the church, in this case covered it over.
